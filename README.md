@@ -1,6 +1,6 @@
 # Tree Finder
 
-The Tree Finder is an application that monitor the status of the Rapid/Spanning Tree Protocol in a Layer 2 switched network using Simple Network Management Protocol (SNMP). The application is designed specifically for Cisco networks that use Per-VLAN spanning trees, and it can monitor and display the status of the links that participate in the R/STP per individual VLAN. The Tree Finder also provides other information and the network. A network administrator can use this application to visualize the forwarding and blocking links in the network, which makes a great tool for troubleshooting.  
+The Tree Finder is an application that monitor the status of the Rapid/Spanning Tree Protocol in a Layer 2 switched network using Simple Network Management Protocol (SNMP). The application is designed specifically for Cisco networks that use Per-VLAN spanning trees, and it can monitor and display the status of the links that participate in the R/STP per individual VLAN. The Tree Finder also provides other information about the network. A network administrator can use this application to visualize the forwarding and blocking links in the network, which makes a great tool for troubleshooting.  
 
 ## Getting Started 
 
