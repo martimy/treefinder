@@ -8,7 +8,7 @@ To get a copy of the Tree Finder, you need to clone the source code from GitHub 
 
 ### Installation
 
-To get a copy of the Tree Finder, you need to clone the source code from GitHub and compile in the code in your machine.
+To get a copy of the Tree Finder, you need to clone the source code from GitHub and compile the code in your machine using your favorite IDE.
 
 ```
 $ git clone https://github.com/martimy/treefinder
